@@ -7,7 +7,7 @@
 
 ## Introduction
 
-This playground book consists of a simple browsing book, made more interactive, letting the user interact with it to discover which words may or may not have a common origin. It introduces the topic of a word's etymology in a ludic way. I used SwfitUI and NaturalLanguage frameworks to develop this project.
+This playground book consists of a simple browsing book, made more interactive, letting the user interact with it to discover which words may or may not have a common origin. It introduces the topic of a word's etymology in a ludic way. I used SwiftUI and NaturalLanguage frameworks to develop this project.
 
 ## Download
 
